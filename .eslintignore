@@ -1,0 +1,4 @@
+**.d.ts
+/packages/pixel-design-vue
+dist
+node_modules
